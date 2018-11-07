@@ -1,9 +1,13 @@
 # Implementing Azure Infrastructure Labs
 
+Welcome to the Implementing Azure Infrastructure Labs
+Suggest you use CTRL+Click to follow links. Which will keep this page open.
+
 # Day 1
 Lab 1 - Tour Azure Services and Features
 
 https://docs.microsoft.com/en-au/learn/modules/tour-azure-services-and-features/ (1:10)
+
 
 Lab 2 - IaaS 
 
@@ -16,11 +20,14 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-data-in-azure/ (28min)
 Network 
 https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-networking/ (24min)
 
+
 # Day 2
+
 Lab 3 - App Services
 
 Web App
 https://docs.microsoft.com/en-au/learn/modules/host-a-web-app-with-azure-app-service/ (1:15)
+
 
 Lab 4 - Azure Serverless
 
@@ -30,6 +37,7 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-compute/ (15min)
 Azure Functions 
 https://docs.microsoft.com/en-au/learn/modules/create-serverless-logic-with-azure-functions/ (36min) 
 
+
 Lab 5 - Container - AKS/ACI/Container Registry
 
 Containers Registry 
@@ -37,6 +45,7 @@ https://docs.microsoft.com/en-au/learn/modules/build-and-store-container-images/
 
 Container Advanced
 https://docs.microsoft.com/en-au/learn/modules/run-docker-with-azure-container-instances/ (48min)
+
 
 Lab 6 - DBaaS
 
