@@ -3,7 +3,7 @@
 Welcome to the Implementing Azure Infrastructure Labs
 
 Suggest you use CTRL+CLICK to follow links. Which will keep this page open.
-#
+
 # Day 1
 Lab 1 - Tour Azure Services and Features
 
@@ -28,6 +28,7 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-networking/ (24min
 
 
 # Day 2
+
 
 Lab 3 - App Services
 
@@ -66,7 +67,7 @@ https://docs.microsoft.com/en-au/learn/modules/provision-azure-sql-db/ (50min)
 
 
 
-#-------------------------------------------------------------------------------
+#
 
 # Homework - Subscription Required
 
