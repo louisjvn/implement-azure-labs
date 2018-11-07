@@ -63,3 +63,11 @@ Lab 6 - DBaaS
 
 SQL DB
 https://docs.microsoft.com/en-au/learn/modules/provision-azure-sql-db/ (50min)
+
+
+
+#-------------------------------------------------------------------------------
+
+# Homework - Subscription Required
+
+[IaaS VM Lifecycle](./AzureVMTutorial.md)
