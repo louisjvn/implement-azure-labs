@@ -34,7 +34,7 @@ Lab 3 - App Services
 
 Web App
 https://docs.microsoft.com/en-au/learn/modules/host-a-web-app-with-azure-app-service/ (1:15)
-
+#
 
 Lab 4 - Azure Serverless
 
@@ -45,7 +45,7 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-compute/ (15min)
 
 Azure Functions 
 https://docs.microsoft.com/en-au/learn/modules/create-serverless-logic-with-azure-functions/ (36min) 
-
+#
 
 Lab 5 - Container - AKS/ACI/Container Registry
 
