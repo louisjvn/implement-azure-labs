@@ -21,7 +21,7 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-virtual-machines/ 
 
 Storage 
 https://docs.microsoft.com/en-au/learn/modules/intro-to-data-in-azure/ (28min)
-
+https://docs.microsoft.com/en-au/learn/modules/add-and-size-disks-in-azure-virtual-machines/
 
 Network 
 https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-networking/ (24min)
