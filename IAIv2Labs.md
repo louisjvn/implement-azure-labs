@@ -21,6 +21,7 @@ https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-virtual-machines/ 
 
 Storage Theory
 https://docs.microsoft.com/en-au/learn/modules/intro-to-data-in-azure/ (28min)
+
 Storage Labs
 https://docs.microsoft.com/en-au/learn/modules/add-and-size-disks-in-azure-virtual-machines/ (36min)
 
