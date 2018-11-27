@@ -81,3 +81,6 @@ Microsoft Learn (Free) https://www.microsoft.com/learn
 
 Open EDX Training (Free) https://www.edx.org/course?search_query=azure&school=Microsoft%3A%20Microsoft
 
+
+Certification and Exams for Azure https://www.microsoft.com/en-us/learning/azure-exams.aspx 
+
