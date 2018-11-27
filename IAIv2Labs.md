@@ -73,4 +73,11 @@ https://docs.microsoft.com/en-au/learn/modules/provision-azure-sql-db/ (50min)
 
 # Homework - Subscription Required
 
-[IaaS VM Lifecycle](./AzureVMTutorial.md)
+[IaaS VM Lifecycle Detail Labs](./AzureVMTutorial.md)
+
+
+Microsoft Learn (Free) https://www.microsoft.com/learn
+
+
+Open EDX Training (Free) https://www.edx.org/course?search_query=azure&school=Microsoft%3A%20Microsoft
+
