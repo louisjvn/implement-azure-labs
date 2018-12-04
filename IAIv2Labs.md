@@ -84,3 +84,7 @@ Open EDX Training (Free) https://www.edx.org/course?search_query=azure&school=Mi
 
 Certification and Exams for Azure https://www.microsoft.com/en-us/learning/azure-exams.aspx 
 
+Azure Serverless Architecture E-Book https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/
+
+
+
