@@ -9,7 +9,7 @@ Lab 1 - Tour Azure Services and Features
 
 https://docs.microsoft.com/en-au/learn/modules/tour-azure-services-and-features/ (1:10)
 
-You do not need to create the Free Account in this lab(Optional).
+
 #
 
 Lab 2 - IaaS 
