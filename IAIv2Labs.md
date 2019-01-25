@@ -39,18 +39,8 @@ Web App
 https://docs.microsoft.com/en-au/learn/modules/host-a-web-app-with-azure-app-service/ (1:15)
 #
 
-Lab 4 - Azure Serverless
 
-
-Azure Compute Options 
-https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-compute/ (15min)
-
-
-Azure Functions 
-https://docs.microsoft.com/en-au/learn/modules/create-serverless-logic-with-azure-functions/ (36min) 
-#
-
-Lab 5 - Container - AKS/ACI/Container Registry
+Lab 4 - Container - AKS/ACI/Container Registry
 
 
 Containers Registry 
@@ -59,6 +49,18 @@ https://docs.microsoft.com/en-au/learn/modules/build-and-store-container-images/
 
 Container Advanced
 https://docs.microsoft.com/en-au/learn/modules/run-docker-with-azure-container-instances/ (48min)
+#
+
+
+Lab 5 - Azure Serverless
+
+
+Azure Compute Options 
+https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-compute/ (15min)
+
+
+Azure Functions 
+https://docs.microsoft.com/en-au/learn/modules/create-serverless-logic-with-azure-functions/ (36min) 
 #
 
 Lab 6 - DBaaS
