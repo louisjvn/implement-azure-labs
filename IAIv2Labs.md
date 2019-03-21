@@ -7,7 +7,7 @@ Suggest you use CTRL+CLICK to follow links. Which will keep this page open.
 # Day 1
 Lab 1 - Tour Azure Services and Features
 
-https://docs.microsoft.com/en-au/learn/modules/tour-azure-services-and-features/ (1:10)
+https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/ (1:10)
 
 
 #
