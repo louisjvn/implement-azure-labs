@@ -26,7 +26,7 @@ Storage Labs
 https://docs.microsoft.com/en-au/learn/modules/add-and-size-disks-in-azure-virtual-machines/ (36min)
 
 Network 
-https://docs.microsoft.com/en-au/learn/modules/intro-to-azure-networking/ (24min)
+https://docs.microsoft.com/en-au/azure/virtual-network/tutorial-filter-network-traffic (24min)
 
 
 # Day 2
