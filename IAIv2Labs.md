@@ -88,6 +88,8 @@ Certification and Exams for Azure https://www.microsoft.com/en-us/learning/azure
 
 Azure Serverless Architecture E-Book https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/
 
+Compute Decision Tree http://aka.ms/compute-decision-tree 
+
 #
 [EDX AZ 300 Training Modules](./edx-cert.md)
 
